@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6127265",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "6262758",
+      "name": "圆点",
+      "font_class": "yuandian",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}

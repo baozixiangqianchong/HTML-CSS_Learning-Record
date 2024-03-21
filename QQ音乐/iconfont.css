@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1658880960168') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 25px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* color: rgb(118, 118, 118); */
+}
+
+.icon-bofang:before {
+  content: "\e609";
+}
+
+.icon-yuandian:before {
+  content: "\e604";
+}
+

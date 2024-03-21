@@ -1,0 +1,51 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "340491",
+      "name": "向右",
+      "font_class": "xiangyou",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "577402",
+      "name": "向右1",
+      "font_class": "xiangyou1",
+      "unicode": "e775",
+      "unicode_decimal": 59253
+    },
+    {
+      "icon_id": "2210060",
+      "name": "导航",
+      "font_class": "daohang",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "5387613",
+      "name": "向左",
+      "font_class": "xiangzuo",
+      "unicode": "eb15",
+      "unicode_decimal": 60181
+    },
+    {
+      "icon_id": "10715446",
+      "name": "向下",
+      "font_class": "xiangxia",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "11177508",
+      "name": "换一批",
+      "font_class": "ziyuan",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
